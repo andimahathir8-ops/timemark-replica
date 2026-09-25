@@ -60,4 +60,5 @@ Pushes to `main` automatically deploy to GitHub Pages via the workflow in `.gith
 
 ## License
 
-MIT
+MIT npm run dev
+
